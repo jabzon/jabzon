@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jabzon/jabzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My name is Nikita Sundukov
+I am a beginner DS and DA specialist. I have an incomplete higher education - a teacher in mathematics and computer science. I am a graduate of courses from yandex practicum.
+ 
+### Tools:
+- Python
+- pandas
+- sklearn
+- PostgreSQL
+- numpy
+- seaborn
+- nltk
+- tensorflow
+- matplotlib
